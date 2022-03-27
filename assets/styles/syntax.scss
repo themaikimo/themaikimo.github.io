@@ -87,7 +87,10 @@
 
 .chroma code {
   font-family: 'Fira Code' !important; 
-  font-size: 0.85em;
+  /* MWJ 20220327: */
+  /* font-size: 0.85em; */
+  font-size: 0.85rem;
+
   line-height: 1em;
   background: none;
   padding: 0;
