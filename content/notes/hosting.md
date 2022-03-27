@@ -73,7 +73,7 @@ Please note that the `cname` field should *not* have any path `e.g. end with /qu
 	cname: <YOUR-DOMAIN>
 ```
 
-Have a custom domain? [Learn how to set it up with Quartz ](notes/custom%20Domain.md).
+Have a custom domain? [Learn how to set it up with Quartz ](notes/custom%20domain.md).
 
 ---
 
