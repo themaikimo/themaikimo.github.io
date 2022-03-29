@@ -2,11 +2,14 @@ name: Mike James
 enableToc: false
 enableLinkPreview: true
 description:
-  An experiment in cultivating seedling ideas with the garage door—garden gate?—open.
+  Here is the page description. This is an example Quartz site that details installation,
+  setup, customization, and troubleshooting for Quartz itself.
 page_title:
-  "🪴 Mike’s Digital Garden"
+  "🪴 Mike's Digital Garden"
 links:
   - link_name: Facebook
     link: https://facebook.com/themaikimo
   - link_name: Twitter
     link: https://twitter.com/themaikimo
+  - link_name: GitHub
+    link: https://github.com/themaikimo
