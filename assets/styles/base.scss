@@ -10,8 +10,7 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
   /* MWJ 20220326: */
   /* font-family: Inter; */
   font-family: 'Libre Baskerville', serif;
-  /* line-height: 1.9; */
-  line-height: 1.66;
+  line-height: 1.9;
 
   color: var(--dark);
   font-weight: revert;
@@ -336,9 +335,7 @@ hr {
 }
 
 article > h1 {
-  /* MWJ 20220329: */
-  /* font-size: 2em; */
-  font-size: 1.8em;
+  font-size: 2em;
 }
 
 header {
@@ -347,10 +344,7 @@ header {
   align-items: center;
 
   & > h1 {
-    /* MWJ 20220329: */
-    /* font-size: 2em; */
-    font-size: 1.4em;
-    line-height: 1.5;
+    font-size: 2em;
   }
 
   & > nav {
