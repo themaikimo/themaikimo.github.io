@@ -1,5 +1,7 @@
 ---
 title: "Quartz Philosophy"
+tags:
+- setup
 ---
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
@@ -15,3 +17,11 @@ I've personally found that
 I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](https://joelhooks.com/digital-garden)'s digital gardens and wanted to try making my own.
 
 **The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
+
+### Quartz features
+1. Extremely fast full-text search by pressing `/`
+2. Display for backlinks of each note
+3. Fully customizable local graph view
+4. Endlessly powerful page and theme customization using CSS
+5. Automatically generated tag and section lists of content
+6. Beautiful link previews 

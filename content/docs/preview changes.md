@@ -1,5 +1,7 @@
 ---
 title: "Preview Changes"
+tags:
+- setup
 ---
 
 If you'd like to preview what your Quartz site looks like before deploying it to the internet, here's exactly how to do that!

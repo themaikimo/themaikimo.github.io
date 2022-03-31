@@ -26,9 +26,9 @@ $ git clone https://github.com/YOUR-USERNAME/quartz
 ## Editing
 Great! Now you have everything you need to start editing and growing your digital garden. If you're ready to start writing content already, check out the recommended flow for editing notes in Quartz.
 
-✏️ [Editing Notes in Quartz](notes/editing.md)
+✏️ [Editing Notes in Quartz](/docs/editing.md)
 
-Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
+Having problems? Checkout our [FAQ and Troubleshooting guide](/docs/troubleshooting.md).
 
 ## Updating
 Haven't updated Quartz in a while and want all the cool new optimizations?
