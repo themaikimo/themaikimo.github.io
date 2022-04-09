@@ -1,6 +1,7 @@
 name: Mike James
 enableToc: false
 enableLinkPreview: true
+enableLatex: true
 description:
   An experiment in publishing my notes "with the garage door open," or in this metaphor, with the garden gate open.
 page_title:
