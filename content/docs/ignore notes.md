@@ -1,7 +1,5 @@
 ---
 title: "Ignoring Notes"
-tags:
-- setup
 ---
 
 ### Quartz Ignore
